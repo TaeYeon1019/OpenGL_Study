@@ -1,0 +1,13 @@
+﻿  main.cpp
+D:\OpenGL_Env\Test1\Test1\main.cpp(4,1): warning C4005: “GLEW_STATIC”: 宏重定义
+D:\OpenGL_Env\Test1\Test1\main.cpp(4,1): message : 之前在命令行上声明的“GLEW_STATIC”
+D:\OpenGL_Env\Test1\Test1\Shader.h(99,57): warning C4244: “参数”: 从“float”转换到“GLint”，可能丢失数据
+D:\OpenGL_Env\Test1\Test1\main.cpp(127,27): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+D:\OpenGL_Env\Test1\Test1\main.cpp(128,24): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+glew32s.lib(glew.obj) : warning LNK4099: 未找到 PDB“”(使用“glew32s.lib(glew.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: 未找到 PDB“”(使用“soil2-debug.lib(SOIL2.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: 未找到 PDB“”(使用“soil2-debug.lib(image_DXT.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+soil2-debug.lib(wfETC.obj) : warning LNK4099: 未找到 PDB“”(使用“soil2-debug.lib(wfETC.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+soil2-debug.lib(image_helper.obj) : warning LNK4099: 未找到 PDB“”(使用“soil2-debug.lib(image_helper.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  Test1.vcxproj -> D:\OpenGL_Env\Test1\x64\Debug\Test1.exe
